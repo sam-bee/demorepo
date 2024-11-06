@@ -1,0 +1,7 @@
+{
+    "name": "sam-bee/demo-repo",
+    "description": "A short description of what your package does",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
