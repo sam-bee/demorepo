@@ -3,5 +3,11 @@
     "description": "A short description of what your package does",
     "require-dev": {
         "phpunit/phpunit": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "2.0.x-dev"
+        }
     }
 }
+
