@@ -6,7 +6,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "2.0.x-dev"
+            "dev-main#580bdb8d2bb6a9d46671b08f2723c8ddd08a3efc": "2.0.0"
         }
     }
 }
